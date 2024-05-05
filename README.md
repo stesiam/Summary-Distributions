@@ -14,4 +14,4 @@ A collection of distributions which is being categorized based on its type of di
 In Statistics one of the most common tasks is the identification of the distribution. Main goal of this repo is to help my fellow students by creating a list including every distribution
 we have ever used on Statistics' lectures.
 
-Ypu are free to make any additions by creating an Issue.
+You are free to make any additions by creating an Issue.
